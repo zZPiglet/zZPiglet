@@ -1,6 +1,7 @@
-### Hi there 👋
+<img src="https://github-readme-stats.vercel.app/api?username=zZPiglet&show_icons=true&icon_color=196F3D&text_color=999999&bg_color=121212&hide_title=true" />
 
 <!--
+### Hi there 👋
 **zZPiglet/zZPiglet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
